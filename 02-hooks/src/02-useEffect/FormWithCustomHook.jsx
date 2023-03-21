@@ -30,7 +30,7 @@ export const FormWithCustomHook = () => {
             <input 
                 type="email" 
                 className="form-control mt-2"
-                placeholder="fernando@google.com"
+                placeholder="manuel@google.com"
                 name="email"
                 value={ email }
                 onChange={ onInputChange }
